@@ -26,6 +26,9 @@ HEADERS += \
 FORMS += \
     settings.ui
 
+OTHER_FILES += \
+    README.md
+
 
 
 
